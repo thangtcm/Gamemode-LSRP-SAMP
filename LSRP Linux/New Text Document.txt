@@ -1,0 +1,15 @@
+GangZone
+
+Owner
+Posminx
+Posmaxx
+Posminy
+Posmaxy
+PositionX
+PositionY
+PositionZ
+ZoneTog
+Used
+Usercapture
+Family
+Time

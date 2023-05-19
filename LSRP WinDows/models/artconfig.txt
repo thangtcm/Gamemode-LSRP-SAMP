@@ -1,0 +1,2 @@
+AddCharModel(186, 25002, "somyri.dff", "somyri.txd");
+AddSimpleModel(-1,19379, -2000, "wallzzz.dff", "wallzzz.txd");

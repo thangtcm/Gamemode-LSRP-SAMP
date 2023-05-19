@@ -1,0 +1,15 @@
+GangZone
+
+Owner
+Posminx	float
+Posmaxx	float
+Posminy	float
+Posmaxy	float
+PositionX	float
+PositionY	float
+PositionZ	float
+ZoneTog	int
+Used	int
+Usercapture	int
+Family
+Time
