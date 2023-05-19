@@ -1,0 +1,2 @@
+# Gamemode-LSRP-SAMP-
+Gamemode
